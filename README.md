@@ -1,7 +1,7 @@
 # BL2-Playthrough-Randomiser
 A Bash based randomiser for generating Borderlands 2 Playthrough ideas. 
-The BL2 Playthrough Randomiser - By ZCO
-Currently only compatible with Linux
+The BL2 Playthrough Randomiser - By ZCO.
+Currently only compatible with Linux.
 
 Installing:
 1) Download the BL2.tar.gz file

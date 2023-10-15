@@ -6,7 +6,7 @@ Currently only compatible with Linux.
 Installing Option 1:
 1) Download the BL2.tar.gz file
 2) Extract the contents of BL2.tar.gz
-3) You can be run  tne program by double clicking BL2 or BL2JTTW to run in terminal, or by running the script in terminal.
+3) You can be run the program by double clicking BL2 or BL2JTTW to run in terminal, or by running the script in terminal.
 
 Installing Option 2:
 1) Download the .deb file
